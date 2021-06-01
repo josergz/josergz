@@ -2,9 +2,9 @@
 
 Hi, I'm José Rodríguez, a self-taught frontEnd web developer from México.
 
-🔭 I'm currently studying computer systems engineering
-🌱 I’m currently learning React and Node
-💬 Ask me about anything here
+- 🔭 I'm currently studying computer systems engineering
+- 🌱 I’m currently learning React and Node
+- 💬 Ask me about anything here
 
 <!--
 **josergz/josergz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
