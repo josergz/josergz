@@ -1,11 +1,11 @@
  
-### <h1 align="center">Hi 👋, I'm José Rodriguez</h1>
+### <h1 align="center">Hi 👋, I'm José Rodríguez</h1>
 <h3 align="center">A passionate frontend web developer from México</h3>
 
 - 🔭 I'm currently studying computer systems engineering  
   
 
-- 🌱 I’m currently learning React and Node  
+- 🌱 I’m currently learning JavaScript
   
 
 - 💬 Ask me about anything heretechnologies  
