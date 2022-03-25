@@ -1,5 +1,7 @@
 ### <div align="center">Hi 👋, I'm José Rodriguez, a passionate frontend web developer from México</div>  
   
+###<h1 align="center">Hi 👋, I'm José Rodriguez</h1>
+<h3 align="center">A passionate frontend web developer from México</h3>
 
 - 🔭 I'm currently studying computer systems engineering  
   
