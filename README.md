@@ -1,14 +1,14 @@
  
 ### <h1 align="center">Hi 👋, I'm José Rodríguez</h1>
-<h3 align="center">A passionate frontend web developer from México</h3>
+<h2 align="center">A passionate frontend web developer from México</h2>
 
-- 🔭 I'm currently studying computer systems engineering  
+<h4> - 🔭 I'm currently studying computer systems engineering  </h4>
   
 
-- 🌱 I’m currently learning JavaScript
+<h4> - 🌱 I’m currently learning React </h4>
   
 
-- 💬 Ask me about anything heretechnologies  
+<h4> - 💬 Ask me about anything heretechnologies  </h4>
   
 
 <br/>  
