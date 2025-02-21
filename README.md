@@ -66,13 +66,12 @@
 
 
 ## Github Stats  
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josergz&show_icons=true&locale=en&layout=compact&theme=dark&" alt="josergz" /></div> 
- <br/>  
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josergz&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="josergz" /></div> 
+ 
 
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josergz&show_icons=true&locale=en&theme=dark&" alt="josergz" /></div> 
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josergz&show_icons=true&locale=en&theme=transparentk&" alt="josergz" /></div> 
 <br/>  
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josergz&theme=dark&" alt="josergz" /></div>  
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josergz&theme=transparent&" alt="josergz" /></div>  
 
 
 <br/>  
