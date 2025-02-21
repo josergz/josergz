@@ -2,7 +2,7 @@
 ### <h1 align="center">Hi 👋, I'm José Rodríguez</h1>
 <h2 align="center">A passionate frontend web developer from México</h2>
 
-- 🔭 I'm currently studying computer systems engineering
+- 🔭 I'm computer systems engineering
  
 - 🌱 I’m currently learning React
  
