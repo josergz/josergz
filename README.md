@@ -1,21 +1,16 @@
- 
-### <h1 align="center">Hi 👋, I'm José Rodríguez</h1>
+### <h1 align="center">👋 Hi there! I'm José Rodríguez</h1>
 <h2 align="center">🚀 I'm a FrontEnd web developer from México</h2>
 
-- 💻 **I'm  Computer Systems Engineer** passionate about tech and innovation.
-  
+- 💻 **I'm  Computer Systems Engineer** passionate about tech.
+- 🤝 I'm open to collaborating on Any type of project.
 - 🚀 Building my **portfolio** with **Astro**.
-  
 - 🌱 I’m currently learning **React**.
- 
 - 📫 Reach out to me at **[Email](mailto:joserdgz.dev@gmail.com)**.
-
 - 📄 Download my [CV here](https://docs.google.com/document/d/1EstbL5boq5C4ig2yTDrArF8M1BA1Ar82xuA_mPy09-U/edit?usp=share_link).
-<br/>  
-
+<br/>
+<!------------------------------------------------------------------------------------------------------------------------------------------------>
 
 ## 🛠️ Tools & Technologies
-
 <div align="center">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
@@ -54,18 +49,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="50" height="50" style="margin: 5px;" />
   </a>
 </div>
+<!------------------------------------------------------------------------------------------------------------------------------------------------>
 
-
-
-
-<br/>  
-
-
+## 📊 Github Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=josergz&show_icons=true&locale=en&theme=transparent&" alt="Estadísticas de José" width="400" height="165" />
+  <!-- Top de lenguajes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josergz&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="Lenguajes más usados" width="400" height="165" />
+</div>
+<!------------------------------------------------------------------------------------------------------------------------------------------------>
 
 ## 🌐 Connect with Me
-
-<p align="center">Let's connect and collaborate!</p>
-
 <div align="center">
   <!-- GitHub -->
   <a href="https://github.com/josergz" target="_blank">
@@ -82,22 +77,9 @@
   <!-- Email -->
   <a href="mailto:joserdgz.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-  </br>
-   </br> 
+  </a></div>
+</br> 
 <!-- Visitas al perfil -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=josergz&style=flat-square&scale=10.0" alt="Visitas al perfil" />
-</div>
-
-
-## 📊 Github Stats  
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=josergz&show_icons=true&locale=en&theme=transparent&" alt="Estadísticas de José" width="400" height="165" />
-
-  <!-- Top de lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josergz&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="Lenguajes más usados" width="400" height="165" />
 </div>
