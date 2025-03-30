@@ -1,14 +1,12 @@
 ### <h1 align="center">👋 Hi, I'm José Rodríguez</h1>
-<h2 align="center">🚀 FrontEnd Developer from México</h2>
+<h2 align="center">🚀 Frontend Developer from México</h2>
 
-- 💻 I'm **Computer Systems Engineer** focused on web development.
+- 💻 I'm **Software Engineer** specializing in web development.
 - 🤝 I'm **open to collaborating** on Any type of project.
-- 🚀 Visit my portfolio built with **Astro** at [ **josergz**](https://josergz.xyz).
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **React** to expand my skills.
+- 🚀 Visit my portfolio built with **Astro** at <a href="https://josergz.xyz" target="_blank"><strong>josergz</strong></a>.
+- 📄 You can download my CV [here](https://drive.google.com/uc?export=download&id=1f_AEJL13PSIVrjLAcHCzTUysFNu7VDod).
 - 📫 Reach out to me at **[Email](mailto:joserdgz.dev@gmail.com)**.
-- 📄 Download my [CV here](https://drive.google.com/uc?export=download&id=1f_AEJL13PSIVrjLAcHCzTUysFNu7VDod).
-
-
 <br/>
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
@@ -36,24 +34,21 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
 ## 🌐 Connect with Me
-
 <div align="center">
   <!-- Instagram -->
-  <a href="https://instagram.com/_josergz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/josergz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<!-- Instagram -->
+<a href="https://instagram.com/_josergz" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/josergz" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <!-- Email -->
   <a href="mailto:joserdgz.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-
-
 </br> 
 <!-- Visitas al perfil -->
 <div align="center">
