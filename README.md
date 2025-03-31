@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React** to expand my skills.
 - 🚀 Visit my portfolio built with **Astro** at <a href="https://josergz.xyz" target="_blank"><strong>josergz</strong></a>.
 - 📄 You can download my CV [here](https://drive.google.com/uc?export=download&id=1f_AEJL13PSIVrjLAcHCzTUysFNu7VDod).
-- 📫 Reach out to me at **[Email](mailto:joserdgz.dev@gmail.com)**.
+- 📫 Reach out to me at **[Email](mailto:contacto@josergz.xyz)**.
 <br/>
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
