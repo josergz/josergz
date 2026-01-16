@@ -4,7 +4,7 @@
 - 💻 I'm **Software Engineer** specializing in web development.
 - 🤝 I'm **open to collaborating** on Any type of project.
 - 🌱 I’m currently learning **React** to expand my skills.
-- 🚀 Visit my portfolio built with **Astro** at <a href="https://josergz.xyz" target="_blank"><strong>josergz</strong></a>.
+- 🚀 Visit my portfolio built with **Astro** at <a href="https://josergz.dev" target="_blank"><strong>josergz</strong></a>.
 - 📄 You can download my CV [here](https://drive.google.com/uc?export=download&id=1f_AEJL13PSIVrjLAcHCzTUysFNu7VDod).
 - 📫 Reach out to me at **[Email](mailto:contacto@josergz.xyz)**.
 <br/>
@@ -24,13 +24,20 @@
 </div>
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
-## 📊 Github Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=josergz&show_icons=true&locale=en&theme=transparent&" alt="Estadísticas de José" width="400" height="165" />
-  <!-- Top de lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josergz&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="Lenguajes más usados" width="400" height="165" />
-</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=josergz&show_icons=true&theme=github_dark&cache_seconds=1800"
+    width="400"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josergz&layout=compact&theme=github_dark&cache_seconds=1800"
+    width="400"
+  />
+</p>
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
 ## 🌐 Connect with Me
