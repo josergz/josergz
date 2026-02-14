@@ -29,15 +29,12 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/josergz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:contacto@josergz.dev">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a align="center">
-  <img src="https://komarev.com/ghpvc/?username=josergz&style=flat-square" alt="Profile Views" />
-</a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josergz)
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:contacto@josergz.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=josergz&style=flat-square)
+
+</div>
+
 
