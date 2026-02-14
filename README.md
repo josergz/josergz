@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm José Rodríguez</h1>
-<h3 align="center">Frontend Developer from México</h3>
+<h2 align="center">Frontend Developer from México</h2>
 
 - 💻 **Software Engineer** with a focus on frontend web development.
 - 🌱 Currently learning **React** to strengthen my frontend stack.
@@ -29,19 +29,15 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/josergz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://linkedin.com/in/josergz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Email -->
-  <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:contacto@josergz.dev">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
-<!-- Visitas al perfil -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=josergz&style=flat-square" />
-</div>
+  <a align="center">
+  <img src="https://komarev.com/ghpvc/?username=josergz&style=flat-square" alt="Profile Views" />
+</a>
+</p>
 
