@@ -19,7 +19,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josergz&theme=github_dark" />
@@ -27,7 +27,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------>
 
-## 🌐 Connect with Me
+## 🌐 Contact
 
 <div align="center">
 
