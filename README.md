@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm José Rodríguez</h1>
 <h2 align="center">  Frontend Developer | Software Engineer</h2>
 
-**Software Engineer** focused on **frontend development**. Experienced in building **responsive** and **scalable web apps**, with a **solid mastery** of **HTML**, **CSS**, **JavaScript** and **Tailwind**. Currently deepening my expertise in **React**, with a focus on **performance**, **maintainability**, and **clean architecture**.
+**Software Engineer** focused on **Frontend development**. I have a solid foundation in **Object-Oriented Programming (Java)** and experience with **version control (Git)**. I have **practical experience** building **responsive and scalable web apps** using **JavaScript**, **HTML**, **CSS**, and **Tailwind**. Currently, I am **strengthening my skills in React**, with a particular focus on **clean code**, **maintainability**, and **efficiency**.
 
 - 🤝 Open to work
 - 🌍 Based in México  
