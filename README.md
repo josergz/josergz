@@ -14,9 +14,9 @@
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • React • Astro
+HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • TypeScript • React • Astro
 <p >
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,astro" />
 </p>
 
 ### ⚙️ Tools
