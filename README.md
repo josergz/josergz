@@ -20,7 +20,7 @@ HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • T
 </p>
 
 ### ⚙️ Tools
-Git • GitHub • Vercel • VS Code • IntelliJ IDEA
+Git • GitHub • Vercel • VS Code 
 <p >
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
