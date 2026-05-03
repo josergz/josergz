@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm José Rodríguez</h1>
-<h2 align="center">  Frontend Developer | Software Engineer</h2>
+<h2 align="center">👋 Hi, I'm José Rodríguez</h1>
+<h1 align="center">  Frontend Developer</h2>
 
-**Software Engineer** focused on **Frontend** development. I have **practical experience** building **responsive and scalable web apps** with **HTML, CSS, Tailwind, and JavaScript**. Additionally, I have basic **Java (OOP)** knowledge. Currently, I am strengthening my **React** skills with an emphasis on **clean code**, **maintainability**, and **efficiency**.
+**Software Engineer** focused on **Frontend** development. I have **practical experience** building **responsive and scalable web apps** with **HTML, CSS, Tailwind, and JavaScript**. Currently, I am strengthening my **React** skills with an emphasis on **clean code**, **maintainability**, and **efficiency**.
 
 - 🤝 Open to work
 - 🌍 Based in México  
@@ -22,14 +22,9 @@ HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • T
 ### ⚙️ Tools
 Git • GitHub • Vercel • VS Code • IntelliJ IDEA
 <p >
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
-### 🧠 Programming Foundations
-Java (OOP & Core Fundamentals)
-<p >
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
 
 ## 📊 GitHub Stats
 
