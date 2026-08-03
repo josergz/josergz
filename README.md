@@ -1,44 +1,90 @@
-<h2 align="center">👋 Hi, I'm José Rodríguez</h1>
-<h1 align="center">  Frontend Developer</h2>
+<h1 align="center">Hi 👋, I'm José Rodríguez</h1>
+<h3 align="center">
+Frontend Developer • Software Engineer
+</h3>
 
-**Software Engineer** focused on **Frontend** development. I have **practical experience** building **responsive and scalable web apps** with **HTML, CSS, Tailwind, and JavaScript**. Currently, I am strengthening my **React** skills with an emphasis on **clean code**, **maintainability**, and **efficiency**.
+
+<p align="center">
+  <strong>Software Engineer</strong> focused on <strong>Frontend</strong> development. I have <strong>practical experience</strong> building <strong>responsive and scalable web apps</strong> with <strong>HTML, CSS, Tailwind, and JavaScript</strong>. Currently, I am strengthening my <strong>React</strong> skills with an emphasis on <strong>clean code</strong>, <strong>maintainability</strong>, and <strong>efficiency</strong>.
+</p>
+
+
+
+
+---
+
+# 🚀 About Me
 
 - 🤝 Open to work
 - 🌍 Based in México  
 - 📫 Reach out via <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener"><strong>Email</strong></a>.
-- 📄 Download my CV <a href="https://josergz.dev/CV_DEV_Jose_Rodriguez.pdf" download="CV_Jose_Rodriguez.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
+- 📄 Download my CV <a href="https://josergz.dev/assets/CV-Jose-Rodriguez-ENG.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
 - 🚀 Visit my portfolio at <a href="https://josergz.dev" target="_blank" rel="noopener"><strong>josergz.dev</strong></a>.
 
+---
 
+# 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • TypeScript • React • Astro
-<p >
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,astro" />
-</p>
-
-### ⚙️ Tools
-Git • GitHub • Vercel • VS Code 
-<p >
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
-</p>
-
-
-## 📊 GitHub Stats
+### Frontend
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josergz&theme=github_dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro" />
 </p>
 
-## 🌐 Contact
+<p align="center">
+HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • React • Astro
+</p>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josergz)
-[![Email](https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:contacto@josergz.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=josergz&style=flat-square)
-</div>
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea" />
+</p>
+
+<p align="center">
+Git • GitHub • Vercel • VS Code • IntelliJ IDEA
+</p>
+
+### Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+<p align="center">
+Java (OOP • Data Structures • Core Fundamentals)
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josergz&theme=dracula&hide_border=true" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josergz&theme=dracula&hide_border=true" width="600"/>
+</p>
+
+###
+
+---
+
+# 🌎 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/josergz">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:contacto@josergz.dev">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=josergz&style=for-the-badge">
+
+</p>
 
 
